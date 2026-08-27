@@ -9,5 +9,5 @@ My name is Jeff
 - 🌱 I’m currently learning game development at Green Country Technology Center in Okmulgee, OK.
 - 🤔 I’m looking for help with c# and Unity.
 - 💬 Ask me about my games or filmmaking process.
-- ⚡ Fun fact: I have Tourettes. Pardon my language.
+- ⚡ Fun fact: I got Pirhana Plant into Elite Smash before I quit playing online.
 

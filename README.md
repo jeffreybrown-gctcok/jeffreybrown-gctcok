@@ -3,11 +3,11 @@
 
 <!--**jeffreybrown-gctcok/jeffreybrown-gctcok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My name is Jeff
+My name is Jeff. I'm a filmmaker and game developer.
 
-- 🔭 I’m currently working on Combo Runner as a school project and Destroy All Castles for publishers.
-- 🌱 I’m currently learning game development at Green Country Technology Center in Okmulgee, OK.
-- 🤔 I’m looking for help with c# and Unity.
-- 💬 Ask me about my games or filmmaking process.
-- ⚡ Fun fact: I got Pirhana Plant into Elite Smash before I quit playing online.
+- 🎮🛠️ I’m currently working on Combo Runner as a school project and Destroy All Castles for publishers.
+- 💻⚙️ I’m currently learning game development at Green Country Technology Center in Okmulgee, OK.
+- 🤔🧱 I’m looking for help with C# and Unity.
+- 💬📽️ Ask me about my games or filmmaking process.
+- 🪴🏆 Fun fact: I got Pirhana Plant into Elite Smash before I quit playing online.
 
